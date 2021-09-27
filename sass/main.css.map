@@ -1,0 +1,19 @@
+{
+    "version": 3,
+    "mappings": "ACgBA,AAAA,CAAC,CAAA;EACG,MAAM,EAAC,CAAC;EACR,OAAO,EAAC,CAAC;EACT,WAAW,EANA,QAAQ,EAAE,UAAU,EAMH,UAAU;CACzC;;AEpBD,AAAA,QAAQ,CAAA;EACJ,gBAAgB,EFAJ,OAAO;CECtB;;ACFD,AAAA,OAAO,CAAA;EACH,gBAAgB,EHQA,OAAO;CGP1B;;ACFD,AAAA,SAAS,CAAA;EACL,gBAAgB,EJGF,OAAO;CIFxB;;ACFD,AAAA,SAAS,CAAA;EACL,gBAAgB,ELMC,IAAI;CKLxB;;ACDI,AAAD,eAAU,CAAA;EACN,gBAAgB,ENDR,OAAO;CMElB;;AACA,AAAD,cAAS,CAAA;EACL,gBAAgB,ENCH,OAAO;CMAvB;;ACNL,AAAA,MAAM,CAAA;EACF,gBAAgB,EPGF,OAAO;COFxB;;ACFD,AAAA,QAAQ,CAAA;EACJ,gBAAgB,ERQA,OAAO;CQP1B;;ACFD,AAAA,OAAO,CAAA;EACH,gBAAgB,ETGF,OAAO;CSFxB",
+    "sources": [
+        "main.scss",
+        "_base.scss",
+        "_typography.scss",
+        "_sidebar.scss",
+        "_header.scss",
+        "_realtors.scss",
+        "_features.scss",
+        "_story.scss",
+        "_homes.scss",
+        "_gallery.scss",
+        "_footer.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
